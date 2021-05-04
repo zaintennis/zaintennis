@@ -8,7 +8,7 @@ I'm Zain, a Software Developer & Consultant. I enjoy building Front-end applicat
 🏘️ I like collaborating with others <br>
 
 <b>My Skills:</b> <br>
-Front End Development (Learning Backend) <br>
+Front End Web Development (Learning Backend) <br>
 UI/UX design <br>
 QA Testing <br>
 Product Analysis and Development <br>
