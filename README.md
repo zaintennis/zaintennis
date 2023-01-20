@@ -8,10 +8,4 @@ UI/UX design <br>
 QA Testing <br>
 Product Analysis and Development <br>
 
-<b>I'm currently working on:</b> <br>
--Building a fully-functional Spotify Clone in React using the Spotify Web API <br>
--Managing an startup's Website and Forms Application (Built by me) <br>
--Future Personal Portfolio Project <br>
-
-
 
