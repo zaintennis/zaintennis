@@ -1,1 +1,2 @@
-Building... https://aurelis.ca/
+Co-founder @ Aurelis
+Toronto | Software
